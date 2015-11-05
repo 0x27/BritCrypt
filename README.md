@@ -17,3 +17,13 @@ Simply run it with the first argument being the file you wish to encrypt, and th
 
 ## Licence
 Licenced under the [WTFPL](http://wtfpl.net)
+
+## Beer?
+Send yer cryptologically generated beer tokens to fuel further opensource software:  
+[coinbase, for convenience](https://www.coinbase.com/infodox/), or the following bitcoin address: `13rZ67tmhi7M3nQ3w87uoNSHUUFmYx7f4V`
+
+## Bug Reports and Feature Requests
+Please submit all bug reports and feature requests to the [Github Issue Tracker](https://github.com/0x27/GitPass/issues)
+
+## Footnote
+*"People willing to trade their freedom for temporary security deserve neither and will lose both"* - Benjamin Franklin
