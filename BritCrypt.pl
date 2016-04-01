@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # you will need: http://search.cpan.org/CPAN/authors/id/A/AY/AYRNIEU/Crypt-Rot13-0.6.tar.gz
+# Note: May require manual installation. CPAN fails on it for some reason
 # ~skyhighatrist (2015)
 use strict;
 use warnings;
