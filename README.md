@@ -26,7 +26,7 @@ Send yer cryptologically generated beer tokens to fuel further opensource softwa
 Implementations in C, PHP, Ruby, Python and NodeJS (as an NPM package) are coming soon.
 
 ## Bug Reports and Feature Requests
-Please submit all bug reports and feature requests to the [Github Issue Tracker](https://github.com/0x27/GitPass/issues)
+Please submit all bug reports and feature requests to the [Github Issue Tracker](https://github.com/0x27/BritCrypt/issues)
 
 ## Footnote
 *"People willing to trade their freedom for temporary security deserve neither and will lose both"* - Benjamin Franklin
